@@ -1,0 +1,83 @@
+{
+  "slug": "aaliyah-brooks",
+  "name": "Aaliyah Brooks",
+  "pronouns": "she/her",
+  "title": "Ph.D. Student, Environmental Engineering",
+  "headline": "Green stormwater infrastructure for flood-prone neighborhoods.",
+  "department": "College of Engineering",
+  "organization": "University of Georgia",
+  "gsaRole": "President, Engineering Graduate Council",
+  "badgeLabel": "E.I.T. · ASCE Student Chapter",
+  "location": "Athens, GA",
+  "photo": "",
+  "bio": "Graduate student at the University of Georgia. Green stormwater infrastructure for flood-prone neighborhoods. Open to collaborations, mentoring and good conversations.",
+  "email": "yourname@uga.edu",
+  "phone": "+1 706 555 0142",
+  "website": "https://example.com",
+  "cv": "assets/cv.pdf",
+  "calendar": "https://calendar.app.google/your-booking-link",
+  "researchInterests": [
+    "Stormwater",
+    "Green infrastructure",
+    "Hydrology",
+    "Environmental justice"
+  ],
+  "links": [
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/",
+      "icon": "linkedin"
+    },
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/",
+      "icon": "scholar"
+    },
+    {
+      "label": "ORCID",
+      "url": "https://orcid.org/",
+      "icon": "orcid"
+    }
+  ],
+  "publications": [],
+  "projects": [],
+  "education": [
+    {
+      "degree": "Ph.D. Student, Environmental Engineering",
+      "school": "University of Georgia",
+      "years": "2024 – present"
+    }
+  ],
+  "awards": [],
+  "officeHours": "By appointment · use the booking link",
+  "events": [
+    {
+      "title": "ASCE Site Visit: Oconee Treatment Plant",
+      "date": "Nov 8, 2026",
+      "where": "Meet at Driftmier"
+    },
+    {
+      "title": "EGC Research Mixer",
+      "date": "Dec 2, 2026",
+      "where": "Boyd Research Center"
+    }
+  ],
+  "brand": {
+    "cardName": "GSA Connect",
+    "org": "UGA Graduate Student Association",
+    "orgShort": "UGA GSA"
+  },
+  "theme": {
+    "accent": ""
+  },
+  "poweredBy": {
+    "name": "ScholarTap",
+    "url": "https://scholartap.com"
+  },
+  "siteUrl": "",
+  "wallet": {
+    "backgroundColor": "#e8590c",
+    "foregroundColor": "#FFFFFF",
+    "labelColor": "#ffc9a3"
+  }
+}
